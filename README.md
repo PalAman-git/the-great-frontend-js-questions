@@ -16,10 +16,13 @@ Each challenge is organized into its own folder:
 
 ```
 the-great-frontend/
- ┣ counter/          # Counter component challenge
- ┣ accordion/        # Accordion UI challenge
- ┣ tabs/             # Tabs component challenge
- ┣ ...
+ ┣ counter/             # Counter component challenge
+ ┣ accordion/           # Accordion UI challenge
+ ┣ tabs/                # Tabs component challenge
+ ┣ js-logic-questions/  # JavaScript coding problems
+ ┃ ┣ 01-two-sum.js
+ ┃ ┣ 02-palindrome.js
+ ┃ ┗ ...
  ┗ README.md
 ```
 
