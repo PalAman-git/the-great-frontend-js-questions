@@ -14,3 +14,6 @@ export default function mean(array) {
 
   return totalSum/array.length
 }
+
+let arr = [1,2,3,4,5];
+console.log(mean(arr));
