@@ -55,7 +55,7 @@ These are implemented in the `js-logic-question/` folder.
 
 | Problem | File | Description |
 |---------|------|-------------|
-| Two Sum | [01-two-sum.js](./js-logic-question/01-two-sum.js) | Find indices of two numbers that add up to a target. |
+| Array Mean | [01-array_mean.js](./js-logic-question/01-two-sum.js) | Find indices of two numbers that add up to a target. |
 | Palindrome Checker | [02-palindrome.js](./js-logic-question/02-palindrome.js) | Check if a given string is a palindrome. |
 | FizzBuzz | [03-fizzbuzz.js](./js-logic-question/03-fizzbuzz.js) | Classic FizzBuzz logic implementation. |
 | ... | Coming soon | More questions will be added regularly. |
