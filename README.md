@@ -65,6 +65,7 @@ These are implemented in the `js-logic-question/` folder.
 - Practice writing clean, efficient algorithms.
 - Prepare for frontend interviews with logic-based questions.
 
+---
 
 ## 🛠️ Tech Stack
 
