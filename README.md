@@ -47,6 +47,25 @@ All challenges are deployed so they can be viewed in action:
 
 ---
 
+
+## 🧩 JavaScript Logic Questions
+
+This repo also includes a collection of JavaScript problem-solving exercises.  
+These are implemented in the `js-logic-question/` folder.
+
+| Problem | File | Description |
+|---------|------|-------------|
+| Two Sum | [01-two-sum.js](./js-logic-question/01-two-sum.js) | Find indices of two numbers that add up to a target. |
+| Palindrome Checker | [02-palindrome.js](./js-logic-question/02-palindrome.js) | Check if a given string is a palindrome. |
+| FizzBuzz | [03-fizzbuzz.js](./js-logic-question/03-fizzbuzz.js) | Classic FizzBuzz logic implementation. |
+| ... | Coming soon | More questions will be added regularly. |
+
+### Goals
+- Strengthen problem-solving skills in JavaScript.
+- Practice writing clean, efficient algorithms.
+- Prepare for frontend interviews with logic-based questions.
+
+
 ## 🛠️ Tech Stack
 
 - **Languages**: HTML5, CSS3, JavaScript (ES6+)
