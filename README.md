@@ -42,7 +42,6 @@ All challenges are deployed so they can be viewed in action:
 |------------|-----------|-------------|
 | Counter    | [View Demo](https://yourusername.github.io/the-great-frontend/counter) | [Code](./counter) |
 | Accordion  | [View Demo](https://yourusername.github.io/the-great-frontend/accordion) | [Code](./accordion) |
-| Tabs       | [View Demo](https://yourusername.github.io/the-great-frontend/tabs) | [Code](./tabs) |
 | ...        | Coming soon | Coming soon |
 
 ---
