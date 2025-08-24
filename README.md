@@ -54,7 +54,7 @@ These are implemented in the `js-logic-question/` folder.
 
 | Problem | File | Description |
 |---------|------|-------------|
-| Array Mean | [01-array_mean.js](./js-logic-questions/01-two-sum.js) | Find indices of two numbers that add up to a target. |
+| Array Mean | [01-array_mean.js](js-logic-questions/01-two-sum.js) | Find indices of two numbers that add up to a target. |
 | Function_prototype_call | [02-function_prototype_call.js](./js-logic-questions/02-function_prototype_call.js) | Implementation of function_prototype_call |
 | Selection Sort | [03-selection_sort.js](./js-logic-questions/03-selection_sort.js) | Sort the array in ascending order |
 | ... | Coming soon | More questions will be added regularly. |
