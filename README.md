@@ -58,7 +58,7 @@ These are implemented in the `js-logic-question/` folder.
 | Function_prototype_call | [02-function_prototype_call.js](js-logic-questions/02-function_prototype_call.js) | Implementation of function_prototype_call |
 | Selection Sort | [03-selection_sort.js](js-logic-questions/03-selection_sort.js) | Sort the array in ascending order |
 | Stack Implementation | [04-stack_implementation.js](js-logic-questions/04-stack_implementation.js) | Implemented Stack using js |
-| Queue Implementation | [05-queue_implementation.js](js-logic-questions/04-queue_implementation.js) | Implemented Queue using doubly linked list |
+| Queue Implementation | [05-queue_implementation.js](js-logic-questions/05-queue_implementation.js) | Implemented Queue using doubly linked list |
 | ... | Coming soon | More questions will be added regularly. |
 
 ### Goals
