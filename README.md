@@ -55,8 +55,8 @@ These are implemented in the `js-logic-question/` folder.
 | Problem | File | Description |
 |---------|------|-------------|
 | Array Mean | [01-array_mean.js](./js-logic-question/01-two-sum.js) | Find indices of two numbers that add up to a target. |
-| Palindrome Checker | [02-palindrome.js](./js-logic-question/02-palindrome.js) | Check if a given string is a palindrome. |
-| FizzBuzz | [03-fizzbuzz.js](./js-logic-question/03-fizzbuzz.js) | Classic FizzBuzz logic implementation. |
+| Function_prototype_call | [02-function_prototype_call.js](./js-logic-question/02-function_prototype_call.js) | Implementation of function_prototype_call |
+| Selection Sort | [03-selection_sort.js](./js-logic-question/03-selection_sort.js) | Sort the array in ascending order |
 | ... | Coming soon | More questions will be added regularly. |
 
 ### Goals
